@@ -3,14 +3,14 @@ background: deepskyblue;
 font-family: Arial, Helvetica, sans-serif;
 }
 h1 {
-color: lightgray;
+color: dimgray;
 text-align: center;
 }
 .assign {
 display: flex;
 padding: 10px;
 margin: 10px;
-background: dimgray;
+background: lightgray;
 }
 .assign img {
 width: 200px;
