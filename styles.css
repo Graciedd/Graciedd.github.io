@@ -1,13 +1,20 @@
 body {
 background: CornflowerBlue;
 font-family: Arial, Helvetica, sans-serif;
+display: flex;
+flex-wrap: wrap;
 }
 h1 {
 color: midnightblue;
 text-align: center;
+width: 100%;
+display: block;
+
 }
 .assign {
-display: flex;
+width: 20%;
+box-shadow: 8px 8px [pick a color];
+display: block; /* instead of flex */
 padding: 10px;
 margin: 10px;
 background: AliceBlue;
