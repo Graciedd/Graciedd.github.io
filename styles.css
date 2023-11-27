@@ -13,7 +13,7 @@ display: block;
 }
 .assign {
 width: 20%;
-box-shadow: 8px 8px [pick a color];
+box-shadow: 8px 8px midnightblue;
 display: block; /* instead of flex */
 padding: 10px;
 margin: 10px;
